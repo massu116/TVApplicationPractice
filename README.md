@@ -1,1 +1,3 @@
 # TVApplicationPractice
+
+### AndroidTV上でただカウントアップするだけのやつ
